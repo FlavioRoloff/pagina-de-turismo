@@ -1,0 +1,65 @@
+* {
+  font-family: 'Open sans';
+  justify-content: center;
+}
+
+body {
+  
+  margin: 88px 80px;
+  max-width: 1120px;
+  color: #333333;
+}
+
+#subtitle {
+  font-style: italic;
+  text-align: center;
+  font-size: 16px;
+}
+
+.divisor {
+  border: #d9d9d9 solid 1px;
+  margin: 20px;
+}
+
+.headline p{
+  color: #E1624F;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.list {
+  font-weight: bold;
+}
+#historia {
+  color: #0C51A7;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#casais{
+  color: #591b98;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#familias {
+  color: #e5245e;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#orcamento {
+  color: #E95E10;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#description {
+  text-align: center;
+  margin-bottom: 65px;
+}
+
+footer {
+  display: block;
+  text-align: center;
+}
